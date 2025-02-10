@@ -12,7 +12,7 @@ src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badg
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
 > [!IMPORTANT]
-> Hey, I'm **Nicolas Chourrout**!
+> Hey, I'm **Nico**!
 >
 > I run Flowful AI, an AI Agency helping businesses boost efficiency through custom AI solutions. When I'm not consulting, I'm building SaaS projects like [MailFlowAI](https://mailflowai.com) to automate email workflows using cutting-edge language models.
 > 
