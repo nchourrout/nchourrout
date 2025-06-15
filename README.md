@@ -31,7 +31,7 @@
 <blockquote>
   <p><strong>Hey, I'm Nico!</strong></p>
 
-  <p>I run <strong>Flowful AI</strong>, an AI agency helping businesses boost efficiency through custom AI solutions.
+  <p>I run <strong><a href="https://flowful.ai">Flowful AI</a></strong>, an AI agency helping businesses boost efficiency through custom AI solutions.
      When I'm not consulting, I'm building SaaS projects like
      <a href="https://mailflowai.com">MailFlowAI</a> to automate email workflows with cutting-edge language models.</p>
 
