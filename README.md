@@ -4,9 +4,9 @@
     <img src="https://img.shields.io/badge/Flowful_AI_Agency-5C4EE6.svg?style=for-the-badge"
          alt="Flowful AI Agency">
   </a>
-  <a href="https://medium.com/@nchourrout" title="Development Blog">
+  <a href="https://medium.com/@nchourrout" title="Blog">
     <img src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge"
-         alt="Development Blog">
+         alt="Blog">
   </a>
   <a href="https://chourrout.com" title="Personal Website">
     <img src="https://img.shields.io/badge/Personal_Website-blue.svg?style=for-the-badge"
@@ -31,9 +31,9 @@
 <blockquote>
   <p><strong>Hey, I'm Nico!</strong></p>
 
-  <p>I run <strong><a href="https://flowful.ai">Flowful AI</a></strong>, an AI agency helping businesses boost efficiency through custom AI solutions.
+  <p>I run <a href="https://flowful.ai">Flowful AI</a>, an AI agency helping businesses boost efficiency through custom AI solutions.
      When I'm not consulting, I'm building SaaS projects like
-     <a href="https://mailflowai.com">MailFlowAI</a> to automate email workflows with cutting-edge language models.</p>
+     <a href="https://mailflowai.com">MailFlow</a> to automate email workflows with cutting-edge language models.</p>
 
   <p>Passionate about building products that bridge the gap between AI potential and real-world business value.
      Always open to interesting collaborations!</p>
