@@ -38,3 +38,7 @@
   <p>Passionate about building products that bridge the gap between AI potential and real-world business value.
      Always open to interesting collaborations!</p>
 </blockquote>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nchourrout&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
