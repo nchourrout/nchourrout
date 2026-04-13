@@ -1,17 +1,8 @@
 <!-- README.md (entire file) -->
 <div align="center">
-  <a href="https://flowful.ai" title="Flowful AI Agency">
-    <img src="https://img.shields.io/badge/Flowful_AI_Agency-5C4EE6.svg?style=for-the-badge"
-         alt="Flowful AI Agency">
-  </a>
-  <a href="https://medium.com/@nchourrout" title="Blog">
-    <img src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge"
-         alt="Blog">
-  </a>
-  <a href="https://chourrout.com" title="Personal Website">
-    <img src="https://img.shields.io/badge/Personal_Website-blue.svg?style=for-the-badge"
-         alt="Personal Website">
-  </a>
+  <a href="https://flowful.ai" title="Flowful AI Agency"><img src="https://img.shields.io/badge/Flowful_AI_Agency-5C4EE6.svg?style=for-the-badge" alt="Flowful AI Agency"></a>
+  <a href="https://medium.com/@nchourrout" title="Blog"><img src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge" alt="Blog"></a>
+  <a href="https://chourrout.com" title="Personal Website"><img src="https://img.shields.io/badge/Personal_Website-blue.svg?style=for-the-badge" alt="Personal Website"></a>
 </div>
 
 <br>
