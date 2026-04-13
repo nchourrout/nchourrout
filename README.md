@@ -36,6 +36,7 @@
      <a href="https://mailflowai.com">MailFlow</a> to automate email workflows with cutting-edge language models.</p>
 
   <p>Passionate about building products that bridge the gap between AI potential and real-world business value.
+     I also love 3D printing and built <a href="https://github.com/flowful-ai/cad-skill">a Claude Code skill</a> for parametric CAD design.
      Always open to interesting collaborations!</p>
 </blockquote>
 
